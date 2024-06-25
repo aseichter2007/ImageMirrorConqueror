@@ -1,4 +1,4 @@
-# ImageMirrorConqueror
+# ImageMirror Conqueror
 
 This repository contains scripts to help you easily mirror images from the file explorer. I'm pretty sure this used to ship with windows, I'm not sure how they forgot. Maybe I had a cool software, I don't remember, I couldn't find it again. 
 
