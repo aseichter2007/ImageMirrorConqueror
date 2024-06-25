@@ -28,8 +28,8 @@ HKEY_CLASSES_ROOT\SystemFileAssociations\.png\Shell\Mirror
 HKEY_CLASSES_ROOT\Directory\shell\Mirror jpgs, pngs
 
 ## Notes
-
-- These scripts are intended for use on a Windows operating system. Tested working on windows 10. 
+- This is a lossy conversion with jpg images. If you flip excessively, you may degrade your images. Flip Copies. 
+- These scripts are intended for use on a Windows operating system. Tested working on windows 10.
 - I couldn't find a simple solution anywhere, so I figured it out. 
 
 ## Contributing
