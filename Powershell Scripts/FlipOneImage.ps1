@@ -1,0 +1,5 @@
+param([string]$filePath)
+[System.Reflection.Assembly]::LoadWithPartialName("System.Drawing")
+$image = [System.Drawing.image]::FromFile( $filePath )
+$image.rotateflip("RotateNoneFlipX")
+$image.save($filePath)
