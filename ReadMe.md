@@ -18,7 +18,8 @@ To horizontally mirror a single image, right-click on a `.jpg` or `.png` file an
 To mirror all `.jpg` and `.png` images in a selected folder, right-click on the folder and select "Mirror jpgs, pngs" from the context menu.
 
 
-## Uninstalling. Go in the registry and delete the keys:
+## Uninstalling:
+Go in the registry and delete the keys:
 
 HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\Shell\Mirror
 
